@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto" android:id="@+id/navigation"
+    app:startDestination="@id/firstPageFragment">
+
+    <fragment
+        android:id="@+id/firstPageFragment"
+        android:name="com.example.dreamteamapp.FirstPageFragment"
+        android:label="FirstPageFragment" >
+        <action
+            android:id="@+id/action_firstPageFragment_to_personalPageFragment"
+            app:destination="@id/personalPageFragment" />
+        <argument
+            android:name="personIndex"
+            android:defaultValue="0"
+            app:argType="integer"/>
+    </fragment>
+    <fragment
+        android:id="@+id/personalPageFragment"
+        android:name="com.example.dreamteamapp.PersonalPageFragment"
+        android:label="PersonalPageFragment" >
+        <action
+            android:id="@+id/action_personalPageFragment_to_firstPageFragment"
+            app:destination="@id/firstPageFragment"
+            app:popUpTo="@id/firstPageFragment"
+            app:popUpToInclusive="true" />
+    </fragment>
+</navigation>

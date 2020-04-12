@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">DreamTeamApp</string>
+    <string name="name_of_person">Никита Чернобрисов</string>
+    <string name="age">age</string>
+    <string name="contacts">Контакты</string>
+    <string name="experience">Опыт</string>
+    <string name="info">Инфо</string>
+    <string name="education">ОБРАЗОВАНИЕ</string>
+    <string name="skills">НАВЫКИ И ИНТЕРЕСЫ</string>
+    <string name="lang">ЯЗЫКИ</string>
+    <string name="university">ИРИТ-РТФ УрФУ</string>
+    <string name="speciality">Информатика и вычислительная техника</string>
+    <string name="year_and_grade">Бакалавр</string>
+    <string name="year">2020</string>
+    <string name="language">Англиский</string>
+    <string name="langCode">B2</string>
+    <string name="langComment">Upper-Intermediate</string>
+    <string name="skillList">СПИСОК</string>
+    <string name="skillso">Плаванье\nЦветы\nНоготочки</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="company">Название компании</string>
+    <string name="position">Позиция</string>
+    <string name="periodText">00.0000 - 00.0000</string>
+    <string name="Ph">Ph.</string>
+    <string name="phExample">+7(901)9495377</string>
+    <string name="emailExample">chernobrisov@gmail.com</string>
+    <string name="email">Email</string>
+    <string name="vk">VK</string>
+    <string name="vkExample">\@croshindigo</string>
+    <string name="seeCV">Открыть резюме</string>
+    <string name="hh">HH.ru</string>
+    <string name="hi">ПРИВЕТ!</string>
+    <string name="about">
+        Это приложение-визитка команды Ведройдеры. Оно было с трудом и любовью
+        сделано в рамках курса "Обзор передовых научных технологий".\n\nДавай познакомимся! Свайпай вправо
+    </string>
+    <string name="whoisit">кто это?</string>
+    <string name="Bye">ПОКА!</string>
+    <string name="byeMessage">Было приятно познакомиться!\nМожешь предложить нам работу</string>
+</resources>

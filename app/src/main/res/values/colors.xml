@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#fffde7</color>
+    <color name="colorPrimaryDark">#cccab5</color>
+    <color name="colorAccent">#ffffff</color>
+    <color name="personHeader">#f5f5f5</color>
+    <color name="middleBlueGreen">#232733</color>
+    <color name="blond">#F4F1BB</color>
+    <color name="cambridgeBlue">#9BC1BC</color>
+    <color name="cadetBlue">#4e525d</color>
+    <color name="platinum">#E6EBE0</color>
+    <color name="black">#000000</color>
+    <color name="transparentWhite">#cccccc</color>
+
+</resources>
